@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+
+    text-shadow: 3px 3px 2px white;
+}
+
+h2{
+    font-size: 19px;
+    margin: 10px;
+}
+
+#main{
+    margin: 30px 20px 0px 20px;
+    
+
+}
+
+#main p{
+    line-height: 20px;
+    word-wrap: break-word;
+    text-align: justify;
+    
+}
+
+#main img{
+    width: 300px;
+    float: right;
+    
+}
+
+
+
+
+
