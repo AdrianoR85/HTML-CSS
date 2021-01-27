@@ -1,0 +1,30 @@
+body{
+    background-image: url(assents/bg-space.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white;
+}
+.container{
+    margin: auto;
+    width: 500px;
+    height: 800px;  
+    margin-top: 60px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.text{
+    font-size: 21px;
+    text-align: center;
+}
+
+.text-image{
+    text-align: center;
+    line-height: 2px;
+    word-spacing: -4px;
+    padding: 0;
+    margin: 0;
+}
