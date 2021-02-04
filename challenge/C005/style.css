@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 600px;
+    margin: 0 auto;
+}
+
+#myphoto{
+    max-width: 200px;
+    border-radius: 100%;
+    margin-left: 34%;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(36, 34, 33);
+    padding: 5px;
+    color: orange;
+}
+
+h2{
+    padding: 20px;
+}
+.iam{
+    text-align: center;
+}
+
+p{
+    margin: 10px;
+    font-size: 18px;
+}
+
+.icons{
+    padding: 10px;
+    margin-top: 0;
+}
+
+
+footer{
+    background-color: rgb(36, 34, 33);
+    padding: 5px;
+    text-align: right;
+    color: orange;
+}
+
