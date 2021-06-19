@@ -1,7 +1,6 @@
 # Curso de HTM5 e CSS3
- <img align="right" src="assents/logo_html.png" width="200">
- Neste repositorio há algums aulas, exercicios e desafios sobre o meu apredizado em HTML5 e CSS5. Há também, os certificados adquiridos no conclusão dos modulos.<br>
-
+ Neste repositorio há algums aulas, exercicios e desafios sobre o meu apredizado em HTML5 e CSS5. <br>Há também, os certificados adquiridos no conclusão dos modulos.<br>
+<img align="right" src="assents/logo_html.png" width="200">
 ### *Modulo 1*
 + [Desafios](https://github.com/AdrianoR85/HTML-CSS/tree/main/modulo%2001/challenge)
 + [Exercicios](https://github.com/AdrianoR85/HTML-CSS/tree/main/modulo%2001/exercise)
