@@ -1,5 +1,5 @@
 # Curso de HTM5 e CSS3
- <img align="right" src="assents/logo_html.png" width="300">
+ <img align="right" src="assents/logo_html.png" width="200">
  Neste repositorio há algums aulas, exercicios e desafios sobre o meu apredizado em HTML5 e CSS5. Há também, os certificados adquiridos no conclusão dos modulos.<br>
 
 ### *Modulo 1*
