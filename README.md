@@ -4,7 +4,7 @@
 ### *Modulo 1*
 + [Desafios](https://github.com/AdrianoR85/HTML-CSS/tree/main/modulo%2001/challenge)
 + [Exercicios](https://github.com/AdrianoR85/HTML-CSS/tree/main/modulo%2001/exercise)
-+ [Certificado](https://github.com/AdrianoR85/HTML-CSS/blob/main/assents/certificado_modulo1.pdf)
++ [Certificado](https://github.com/AdrianoR85/HTML-CSS/blob/main/images/certificado_modulo1.pdf)
 
 ### *Modulo 2*
 + [Desafios](https://github.com/AdrianoR85/HTML-CSS/tree/main/modulo%2002/challenge)
